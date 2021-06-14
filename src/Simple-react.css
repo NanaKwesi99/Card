@@ -1,0 +1,25 @@
+.cardBody {
+    display:flex;
+    flex-direction:row-reverse;
+    text-align:center;
+    justify-content:center;
+    align-content:center ;
+    margin: 20rem 30rem;
+    border:green ;
+    background-color:pink ;
+    box-shadow:mediumaquamarine ;
+}
+
+.title,.description  {
+    border: 1px solid black;
+    margin: 1px;
+    padding: auto;
+}
+
+
+.image {
+    border: 1px solid black;
+    width: 120px;
+    height: 30vh;
+    margin-right: 1px;
+}
